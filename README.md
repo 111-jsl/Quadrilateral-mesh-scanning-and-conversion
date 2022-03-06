@@ -1,4 +1,4 @@
-# Quadrilateral-mesh-scanning-and-transformation
+# Quadrilateral-mesh-scanning-and-conversion
 use polygon scan-line algorithm to implement plane drawing for basic CG learning
 
 # 计算机图形学 Project 1
